@@ -1,4 +1,4 @@
-# thomas-hatting-follow-me
+# Project Follow Me
 
 
 Project Deep RL Arm Manipulation
